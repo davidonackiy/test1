@@ -45,7 +45,7 @@ def not_bad(s):
 # F. front_back
 #
 def front_back(a, b):
-  # +++your code here+++
+  #
   return
 
 
